@@ -1,0 +1,20 @@
+.lead__subtitle {
+  margin: 32px 0 0;
+  max-width: 640px;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: center;
+
+}
+
+/* Ширина title 720px. Сменил локально точку перелома (570 --> 721) чтобы не переполнялся блок */
+@media screen and (max-width: 721px) {
+  .lead__subtitle {
+    margin: 16px 0 0;
+    max-width: 288px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+  }
+}
