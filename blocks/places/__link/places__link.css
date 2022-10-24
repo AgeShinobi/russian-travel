@@ -1,0 +1,15 @@
+.places__link {
+  margin: 12px 0 0;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: left;
+  text-decoration-line: underline;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 570px) {
+  .places__link {
+    margin: 0 16px;
+  }
+}
