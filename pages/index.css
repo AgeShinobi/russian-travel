@@ -3,7 +3,7 @@
 @import url(../vendor/fonts/fonts.css);
 
 /* Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
+@import url(../vendor/fonts/fonts.css);
 
 /* page */
 @import url(../blocks/page/page.css);
