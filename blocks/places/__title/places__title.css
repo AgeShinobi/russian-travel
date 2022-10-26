@@ -18,8 +18,7 @@
 
 @media screen and (max-width: 900px) {
   .places__title {
-    /* При указании 340px, как по макету, текст растягивается в одну строку */
-    max-width: 330px;
+    max-width: 340px;
     font-size: 42px;
     line-height: 46px;
     
