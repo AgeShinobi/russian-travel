@@ -1,4 +1,6 @@
 .content__photo-grid {
+  list-style-type: none;
+  padding: 0;
   margin: 0 48px;
 }
 

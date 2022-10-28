@@ -1,4 +1,4 @@
-.header__lang-link_decoration_underline {
+.header__lang-link_active {
   text-decoration-line: underline;
   /* Не указано в свойствах в макете, но по факту подчеркивание имеет отступ */
   text-underline-offset: 5px;

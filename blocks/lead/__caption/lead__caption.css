@@ -4,6 +4,7 @@
   font-weight: 400;
   line-height: 14px;
   letter-spacing: 1.5px;
+  text-transform: uppercase;
   text-align: left;
   /* Располагаем элемент слева по блоку. У .lead flex-direction: column */
   align-self: flex-start;
